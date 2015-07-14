@@ -20,3 +20,6 @@ The Cloud9 IDE team
 ## Support & Documentation
 
 Meteor documentation can be found at http://docs.meteor.com/
+
+git log --graph --oneline --decorate --date=relative --all
+
